@@ -52,5 +52,9 @@
     "@types/istanbul-reports": "^3.0.4",
     "@types/jquery": "^3.5.32",
     "@types/stack-utils": "^2.0.3"
-  }
+  },
+  "engines": {
+  "node": "16.x"
+}
+
 }
